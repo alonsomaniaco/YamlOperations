@@ -1,0 +1,15 @@
+{
+    "name": "abarrio/yaml-mixer",
+    "description": "Library to merge yamls files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amaranto",
+            "email": "amaranto.yo@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^5.3"
+    }
+}
