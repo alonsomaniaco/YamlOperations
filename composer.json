@@ -1,6 +1,6 @@
 {
-    "name": "abarrio/yaml-mixer",
-    "description": "Library to merge yamls files",
+    "name": "abarrio/yaml-operations",
+    "description": "Library to operate with yamls files",
     "type": "library",
     "license": "MIT",
     "authors": [
