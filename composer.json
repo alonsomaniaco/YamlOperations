@@ -1,15 +1,23 @@
 {
-    "name": "abarrio/yaml-operations",
-    "description": "Library to operate with yamls files",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "amaranto",
-            "email": "amaranto.yo@gmail.com"
-        }
-    ],
-    "require": {
-        "symfony/yaml": "^5.3"
+  "name": "abarrio/yaml-operations",
+  "description": "Library to operate with yamls files",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "amaranto",
+      "email": "amaranto.yo@gmail.com"
     }
+  ],
+  "require": {
+    "symfony/yaml": "^5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
 }
